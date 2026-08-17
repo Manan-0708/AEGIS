@@ -22,7 +22,7 @@ AEGIS (Aerial Extraction & Guided Intelligent Search) is an AI-driven decision-s
 > [!NOTE]
 > All datasets and trained model weight files are hosted externally and maintained in a shared Google Drive (they are not tracked in this repository).
 >
-> **Google Drive Link:** `[[INSERT_GOOGLE_DRIVE_LINK_HERE]](https://drive.google.com/drive/folders/10CpW4MUXdUUGAECRarOE9qn1lQKXlFLo)`
+> **Google Drive Link:** `https://drive.google.com/drive/folders/10CpW4MUXdUUGAECRarOE9qn1lQKXlFLo`
 
 ---
 
