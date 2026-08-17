@@ -1,7 +1,3 @@
-# Detection Model
-
-**Module:** Detection Model  
-**Owner:** Manan  
-
-## Overview
-This module handles detection model development and aerial imagery analysis for locating personnel and objects of interest.
+# Detection Module
+Owner: Sujal
+Support: Vedant (data augmentation pipeline)

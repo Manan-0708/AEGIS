@@ -1,7 +1,7 @@
 # RAG + Agentic Layer
+Owner: Manan
+Support: Vedant (chunking/embedding pipeline)
 
-**Module:** RAG + Agentic Layer  
-**Owner:** Vedant  
-
-## Overview
-This module integrates retrieval-augmented generation (RAG) and intelligent agentic workflows to pull recovery procedures, decision rules, and domain knowledge.
+Sub-modules:
+- rag_pipeline/  — document collection, chunking, embeddings, vector DB, retrieval + reranking
+- agentic_layer/ — LangGraph orchestration, Assessment Agent, Verification Agent, Reporting Agent

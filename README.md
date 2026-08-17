@@ -7,12 +7,13 @@ AEGIS (Aerial Extraction & Guided Intelligent Search) is an AI-driven decision-s
 
 ## Project Structure & Module Ownership
 
-| Module | Description | Owner | Folder Path |
-| :--- | :--- | :--- | :--- |
-| **Detection** | Detection Model | Manan | [`detection/`](detection/) |
-| **Search Planning** | Search Planning RL Model | Sujal | [`search_planning/`](search_planning/) |
-| **RAG + Agentic** | RAG + Agentic Layer | Vedant | [`rag_agentic/`](rag_agentic/) |
-| **Route & Dashboard** | Route Planning + Dashboard | Aryan | [`route_dashboard/`](route_dashboard/) |
+| Module | Owner | Support | Folder |
+|---|---|---|---|
+| Detection (CV) | Sujal | Vedant | detection/ |
+| Search Planning (RL) | Sujal | — | search_planning/ |
+| RAG Pipeline | Manan | Vedant | rag_agentic/rag_pipeline/ |
+| Agentic Layer | Manan | — | rag_agentic/agentic_layer/ |
+| Route Planning + Dashboard | Aryan | — | route_dashboard/ |
 
 ---
 
