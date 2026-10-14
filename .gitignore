@@ -58,3 +58,10 @@ Thumbs.db
 # Logs
 logs/
 *.log
+
+# AI workflow tooling (local GSD agent files — not project source)
+.agent/
+.gemini/
+
+# Pytest cache directory
+.pytest_cache/

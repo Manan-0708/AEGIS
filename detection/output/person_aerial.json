@@ -1,0 +1,21 @@
+{
+  "image_path": "D:\\AEGIS\\detection\\samples\\person_aerial.jpg",
+  "image_width": 496,
+  "image_height": 221,
+  "target_count": 1,
+  "detections": [
+    {
+      "target_id": 1,
+      "bbox": {
+        "x1": 280.71,
+        "y1": 96.07,
+        "x2": 303.93,
+        "y2": 155.85
+      },
+      "confidence": 0.7368,
+      "class_name": "person"
+    }
+  ],
+  "timestamp": "2026-10-14T17:16:32.114419+00:00",
+  "model_name": "yolov8n.pt"
+}
