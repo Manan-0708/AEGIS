@@ -6,7 +6,7 @@ This roadmap drives AEGIS toward a demonstrable mid-term prototype within a 1-da
 
 ## Phases
 
-- [ ] **Phase 1: Aerial Person Detection Pipeline** - Run person detection on SARD_YOLO aerial test images with structured JSON output (Sujal / Vedant)
+- [x] **Phase 1: Aerial Person Detection Pipeline** - Run person detection on SARD_YOLO aerial test images with structured JSON output (Sujal / Vedant)
 - [ ] **Phase 2: Tactical Rescue RAG Knowledge Base** - Ingest rescue SOPs and deliver grounded Q&A with traceable source citations (Manan / Vedant)
 - [ ] **Phase 3: Operations Dashboard UI** - Interactive Streamlit UI displaying detections, telemetry, and RAG query panel (Aryan)
 - [ ] **Phase 4: End-to-End Integration & Stretch Visualization** - Verify connected pipeline demo and add basic search/route overlay if time allows (All)
@@ -27,7 +27,7 @@ This roadmap drives AEGIS toward a demonstrable mid-term prototype within a 1-da
 **Plans**: 1 plan
 
 Plans:
-- [ ] 01-01: Implement SARD_YOLO inference script and structured JSON detection exporter
+- [x] 01-01: Implement SARD_YOLO inference script and structured JSON detection exporter
 
 ---
 
@@ -90,7 +90,7 @@ Phases execute in numeric order: 1 & 2 (parallel) → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Aerial Person Detection Pipeline | 0/1 | Not started | - |
-| 2. Tactical Rescue RAG Knowledge Base | 0/1 | Not started | - |
+| 1. Aerial Person Detection Pipeline | 1/1 | ✅ Complete | 2026-10-14 |
+| 2. Tactical Rescue RAG Knowledge Base | 0/1 | 🔄 Next | - |
 | 3. Operations Dashboard UI | 0/1 | Not started | - |
 | 4. End-to-End Integration & Stretch | 0/1 | Not started | - |
