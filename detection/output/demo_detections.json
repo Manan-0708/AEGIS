@@ -1,0 +1,9 @@
+{
+  "image_path": "D:\\AEGIS\\detection\\samples\\reference_aerial.jpg",
+  "image_width": 1280,
+  "image_height": 720,
+  "target_count": 0,
+  "detections": [],
+  "timestamp": "2026-10-14T17:02:52.783893+00:00",
+  "model_name": "yolov8n.pt"
+}
